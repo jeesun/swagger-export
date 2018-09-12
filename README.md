@@ -1,5 +1,5 @@
 ﻿# swagger-export
-`swagger-export`是一个提供swagger文档导出功能的服务，不依赖于具体的API接口服务实现，你可以很方便地导出html和pdf两种格式的静态文档。
+`swagger-export`是一个提供swagger文档导出功能的服务，不依赖于具体的API接口服务实现，你可以很方便地导出html和pdf两种格式的静态文档。源码来自[swagger导出静态API文档工具](https://download.csdn.net/download/dong_19890208/10634155)，做了一些修改，以符合实际的项目需要。
 
 ## 导出示例
 [index.html](docs/index.html)
