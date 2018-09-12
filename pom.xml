@@ -36,6 +36,7 @@
                         <!-- 除了ASCIIDOC之外，还有MARKDOWN和CONFLUENCE_MARKUP可选 -->
                         <swagger2markup.markupLanguage>ASCIIDOC</swagger2markup.markupLanguage>
                         <swagger2markup.pathsGroupedBy>TAGS</swagger2markup.pathsGroupedBy>
+                        <swagger2markup.outputLanguage>ZH</swagger2markup.outputLanguage>
                     </config>
                 </configuration>
                 <executions>
