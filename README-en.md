@@ -12,6 +12,7 @@
 
 ## Export examples
 [index.html](docs/index.html)
+![example](screenshots/screenshot.png)
 
 ## Export steps
 1. start api service;

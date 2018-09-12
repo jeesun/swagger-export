@@ -12,6 +12,7 @@
 
 ## 导出示例
 [index.html](docs/index.html)
+![示例](screenshots/screenshot.png)
 
 ## 导出步骤
 1. 启动待导出的API接口服务；
