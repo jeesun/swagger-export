@@ -1,4 +1,13 @@
+<p align="center">
+<a href="http://www.oracle.com/technetwork/java/javase/overview/index.html"><img src="https://img.shields.io/badge/language-java%208.0-orange.svg"></a>
+<img src="https://img.shields.io/badge/release-1.0.0-brightgreen.svg">
+</p>
+
 # swagger-export
+
+[Chinese Documentation](README.md)
+
+## Introduce
 `swagger-export` is a micro-service that provides export swagger document function. Support exported document's types are HTML and PDF.
 
 ## Export examples
